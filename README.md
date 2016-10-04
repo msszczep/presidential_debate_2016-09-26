@@ -2,6 +2,7 @@
 Tools and data for syntactic analysis of the Sept. 26, 2016 debate between Hillary Clinton and Donald Trump
 
 | File | Explanation |
+| :--- | :--- |
 | transcript_raw.txt | Raw transcript, copied from CBSNews.com  |
 | get_sentences_and_speakers.py | Python script used to list sentences and speakers, one sentence per line |
 | transcript_formatted.txt | Raw transcript, copied from CBSNews.com |
