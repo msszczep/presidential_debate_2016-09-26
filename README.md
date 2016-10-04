@@ -7,7 +7,7 @@ Tools and data for syntactic analysis of the Sept. 26, 2016 debate between Hilla
 | get_sentences_and_speakers.py | Python script used to list sentences and speakers, one sentence per line |
 | transcript_formatted.txt | Raw transcript, copied from CBSNews.com |
 | transcript_analysis.txt | Output using the sentences option in mccawley-bulk |
-| transcript_analysis.txt | Same content as transcript_analysis.txt, formatted in Excel |
+| transcript_analysis.xslx | Same content as transcript_analysis.txt, formatted in Excel |
 | USEFUL.sh | Template of handy CLI commands to extract useful numbers and data |
 | english_stop_words.txt | List of English stopwords used for this analysis |
 | get_words.clj | Clojure code useful for analyzing words and syllables |
